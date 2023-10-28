@@ -6,6 +6,10 @@ The Jupyter Notebook source code is easier to understand than the .py Python scr
 
 # Algorithms Uploaded to the Repository in the Order of Complexity:
 
-Simple Linear Regression
+Simple Linear Regression with the salary dataset available at:
 
-Multiple Linear Regression
+https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression
+
+Multiple Linear Regression with the salary dataset available at:
+
+https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-dataset
