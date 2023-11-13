@@ -6,7 +6,9 @@ The Jupyter Notebook source code is easier to understand than the .py Python scr
 
 The requirements.txt file has been included for each machine learning algorithm. Using the requirements.txt will ensure that the version of the Python package used to write the software is installed in the event any of the libraries have been altered by the developers responsible for them.
 
-# Algorithms Uploaded to the Repository in the Order of Complexity:
+# Algorithms Uploaded to the Repository:
+
+Regression:
 
 Simple Linear Regression with the salary dataset available at:
 
@@ -15,3 +17,9 @@ https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regre
 Multiple Linear Regression with the salary dataset available at:
 
 https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-dataset
+
+Classification:
+
+Logistic Regression with the heart disease dataset available at:
+
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
