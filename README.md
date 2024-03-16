@@ -8,18 +8,30 @@ The requirements.txt file has been included for each machine learning algorithm.
 
 # Algorithms Uploaded to the Repository:
 
-Regression:
+## Regression:
 
-Simple Linear Regression with the salary dataset available at:
+### Simple Linear Regression with the salary dataset available at:
 
 https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression
 
-Multiple Linear Regression with the salary dataset available at:
+### Multiple Linear Regression with the salary dataset available at:
 
 https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-dataset
 
-Classification:
+### Ridge Regression with the salary dataset available at:
 
-Logistic Regression with the heart disease dataset available at:
+https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-dataset
+
+### Lasso Regression with the salary dataset available at:
+
+https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-dataset
+
+### ElasticNet Regression with the salary dataset available at:
+
+https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-dataset
+
+## Classification:
+
+### Logistic Regression with the heart disease dataset available at:
 
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
