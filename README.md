@@ -35,3 +35,16 @@ https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-data
 ### Logistic Regression with the heart disease dataset available at:
 
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+<br>
+
+## GitHub Repository BibTex Citation
+
+    @misc{Wallace_2024,  
+    author = {Wallace, Steven},
+    title = {{Python-Machine-Learning-Algorithms-from-Scratch-2023}},
+    howpublished = {GitHub},
+    month = {Oct. 1},   
+    year = {2023},
+    url = {{https://github.com/Stevieee83/Python-Machine-Learning-Algorithms-from-Scratch-2023}}
+    }
